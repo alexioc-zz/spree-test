@@ -59,3 +59,4 @@ gem 'spree_bootstrap_frontend', github: '200Creative/spree_bootstrap_frontend' ,
 gem "spree_product_zoom", :git => "git://github.com/spree/spree_product_zoom.git"
 gem 'spree_multi_currency', :github => "spree/spree_multi_currency" , :branch => '2-2-stable'
 gem 'spree_i18n', github: 'spree/spree_i18n', branch: '2-2-stable'
+gem 'rails_12factor', group: :production
